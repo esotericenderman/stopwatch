@@ -1,5 +1,7 @@
 # Stopwatch
 
+[![Project Status: Completed](./assets/images/badges/status.svg)](./)
+
 > A simple stopwatch project made using HTML, CSS, and JS.
 
 This was part of the [JS course](https://www.youtube.com/watch?v=SBmSRK3feww) by [SuperSimpleDev](https://www.youtube.com/@SuperSimpleDev) that I took to learn JS, HTML, and CSS together.
