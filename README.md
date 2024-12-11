@@ -10,3 +10,9 @@ This was part of the [JS course](https://www.youtube.com/watch?v=SBmSRK3feww) by
 - Reset button with confirmation message
 - The time is stored in the local storage
 - Ability to add laps
+
+## License
+
+© 2023-2025 [Esoteric Enderman](https://enderman.dev)
+ 
+[Stopwatch](./) is licensed under the [AGPL 3.0](./LICENSE) only.
