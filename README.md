@@ -16,3 +16,7 @@ This was part of the [JS course](https://www.youtube.com/watch?v=SBmSRK3feww) by
 © 2023-2025 [Esoteric Enderman](https://enderman.dev)
  
 [Stopwatch](./) is licensed under the [AGPL 3.0](./LICENSE) only.
+
+## Topics
+
+javascript css html time html5 js css3 timer stopwatch time-tracker html-css timers html-css-javascript timer-clock timer-application stop-watch timer-counter stopwatch-js-app stopwatch-using-javascript stop-watch-using-js
