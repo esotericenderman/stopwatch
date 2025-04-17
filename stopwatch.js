@@ -3,8 +3,7 @@ const timerElement = document.querySelector("p.js-time");
 let timer = JSON.parse(localStorage.getItem("timer")) ?? 0;
 let startTime = timer ? Date.now() - timer : null;
 
-const numberFormat = new Intl.NumberFormat("en-GB", { minimumIntegerDigits: 3 })
-	.format;
+const numberFormat = new Intl.NumberFormat("en-GB", { minimumIntegerDigits: 3 }).format;
 
 updateTimerElement();
 
@@ -119,11 +118,9 @@ function resetTimer() {
 
 function showResetConfirmation() {
 	confirmationContainer.innerHTML = `
-
 	<div>Are you sure you want to reset the timer?</div>
 	<button class="yes-button js-yes-button">Yes (Y)</button>
 	<button class="no-button js-no-button">No (N)</button>
-
 	`;
 
 	const noButton = document.querySelector("button.js-no-button");
