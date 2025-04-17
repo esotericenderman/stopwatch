@@ -24,7 +24,7 @@ This was part of the [JS course](https://www.youtube.com/watch?v=SBmSRK3feww) by
 
 &copy; 2023-2025 [Esoteric Enderman](https://enderman.dev)
 
-[Stopwatch](./) is licensed under the [AGPL 3.0](./LICENSE) only.
+[Stopwatch](/) is licensed under the [AGPL 3.0](./LICENSE) only.
 
 ## Topics
 
