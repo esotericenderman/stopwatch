@@ -13,6 +13,13 @@ This was part of the [JS course](https://www.youtube.com/watch?v=SBmSRK3feww) by
 - The time is stored in the local storage
 - Ability to add laps
 
+## Credit
+
+### [Fitness Timer](https://iconduck.com/illustrations/107976/fitness-timer)
+
+<sup>By [Lukasz Adam](https://lukaszadam.com/)</sup>
+<sup>Licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)</sup>
+
 ## License
 
 © 2023-2025 [Esoteric Enderman](https://enderman.dev)
