@@ -1,6 +1,6 @@
 # Stopwatch
 
-[![Project Status: Completed](./images/badges/status.svg)](./)
+[![Project status: completed](./images/badges/status.svg)](./)
 
 > A simple stopwatch project made using HTML, CSS, and JS.
 
