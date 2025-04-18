@@ -13,11 +13,7 @@ This was part of the [JS course](https://www.youtube.com/watch?v=SBmSRK3feww) by
 - The time is stored in the local storage
 - Ability to add laps
 
-## Gallery
-
-![Stopwatch GUI](./assets/images/screenshots/stopwatch.png)
-![Stopwatch laps showcase](./assets/images/screenshots/laps.png)
-![Reset stopwatch menu](./assets/images/screenshots/reset.png)
+![Stopwatch showcase](./assets/gifs/showcase.gif)
 
 ## Credit
 
