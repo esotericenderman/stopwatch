@@ -6,16 +6,18 @@
 
 This was part of the [JS course](https://www.youtube.com/watch?v=SBmSRK3feww) by [SuperSimpleDev](https://www.youtube.com/@SuperSimpleDev) that I took to learn JS, HTML, and CSS together.
 
-![Stopwatch GUI](./assets/images/screenshots/stopwatch.png)
-![Stopwatch laps showcase](./assets/images/screenshots/laps.png)
-![Reset stopwatch menu](./assets/images/screenshots/reset.png)
-
 ## Features
 
 - Start/stop button
 - Reset button with confirmation message
 - The time is stored in the local storage
 - Ability to add laps
+
+## Gallery
+
+![Stopwatch GUI](./assets/images/screenshots/stopwatch.png)
+![Stopwatch laps showcase](./assets/images/screenshots/laps.png)
+![Reset stopwatch menu](./assets/images/screenshots/reset.png)
 
 ## Credit
 
