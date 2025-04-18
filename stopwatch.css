@@ -1,6 +1,6 @@
 body {
 	font-family: monospace;
-	/* Same colour as in the rock paper scissors project at https://esotericenderman.github.io/rock-paper-scissors/ */
+	/* Same colour as in the rock paper scissors project at https://esotericenderman.github.io/rps/ */
 	background-color: rgb(25, 25, 25);
 	color: white;
 	user-select: none;
